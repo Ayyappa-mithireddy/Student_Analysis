@@ -12,7 +12,7 @@ st.set_page_config(
 
 
 # Load the Maths.csv dataset
-df = pd.read_csv("data/Maths.csv")
+df = pd.read_csv("./data/maths.csv")
 
 
 # -----------------------------
